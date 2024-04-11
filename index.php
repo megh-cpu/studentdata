@@ -11,7 +11,7 @@
 <body>
     
 
-<!-- Modal -->
+<!--start Modal -->
 <div class="modal fade" id="studentaddmodal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
